@@ -1,0 +1,7 @@
+- O que é o docker?
+    Um sistema de virtualização, porém, não é um sistema de virtualização tradicional.
+
+    A verdadeira definição é: Engine de administração de containeres.
+
+- O que é container?
+    
